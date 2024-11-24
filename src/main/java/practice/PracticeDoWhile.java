@@ -10,6 +10,7 @@ public class PracticeDoWhile {
 			
 			num--;
 		} while (num >= 0);
+		
 	}
 
 }
