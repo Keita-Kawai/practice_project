@@ -17,7 +17,7 @@ public class PracticeSwitch {
 		
 		for (int i = 1; i <= 10; i++) {
 			
-			int rank = num[r.nextInt(4)];
+			int rank = num[r.nextInt(5)];
 			
 			switch (rank) {
 			case 1:
