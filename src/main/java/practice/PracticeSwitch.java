@@ -36,7 +36,6 @@ public class PracticeSwitch {
 				System.out.println(rank + ": " + "魔法剣士");
 				break;
 			}
-			
 		}
 	}
 

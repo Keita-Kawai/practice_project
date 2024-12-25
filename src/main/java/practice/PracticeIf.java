@@ -15,5 +15,4 @@ public class PracticeIf {
 			System.out.println(i);
 		}
 	}
-
 }
